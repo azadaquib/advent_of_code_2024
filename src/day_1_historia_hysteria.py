@@ -5,7 +5,7 @@ list2 = []
 
 # Read list of Values from assets folder
 
-with open('../assets/day1_historian_hysteria.txt') as f:
+with open('../assets/day_1_historian_hysteria.txt') as f:
     for i in range(LEN):
         vals = f.readline().split()
         list1.append(int(vals[0]))

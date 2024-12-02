@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25981946-2155-44a9-bba9-258646bce3a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/AdventOfCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/day1_historian_hysteria.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/historia_hysteria.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/day_2_red_nosed_reports.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/red_nosed_reports.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +17,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2pdNSlc6RZc2mt5RDoVUwJEzucn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -34,6 +29,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.historia_hysteria.executor": "Run",
+    "Python.red_nosed_reports.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -60,7 +56,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733091994573</updated>
-      <workItem from="1733091995953" duration="674000" />
+      <workItem from="1733091995953" duration="7658000" />
+      <workItem from="1733175525052" duration="4463000" />
     </task>
     <servers />
   </component>
@@ -78,7 +75,19 @@
       </map>
     </option>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/red_nosed_reports.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AdventOfCode$historia_hysteria.coverage" NAME="historia_hysteria Coverage Results" MODIFIED="1733092364533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/AdventOfCode$red_nosed_reports.coverage" NAME="red_nosed_reports Coverage Results" MODIFIED="1733181040811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
 </project>
