@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25981946-2155-44a9-bba9-258646bce3a7" name="Changes" comment="">
+    <list default="true" id="25981946-2155-44a9-bba9-258646bce3a7" name="Changes" comment="Solution for problem 2">
       <change afterPath="$PROJECT_DIR$/assets/day_2_red_nosed_reports.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/red_nosed_reports.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_2_red_nosed_reports.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/day1_historian_hysteria.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assets/day_1_historian_hysteria.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/historia_hysteria.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_1_historia_hysteria.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +59,17 @@
       <option name="presentableId" value="Default" />
       <updated>1733091994573</updated>
       <workItem from="1733091995953" duration="7658000" />
-      <workItem from="1733175525052" duration="4463000" />
+      <workItem from="1733175525052" duration="4896000" />
     </task>
+    <task id="LOCAL-00001" summary="Solution for problem 2">
+      <option name="closed" value="true" />
+      <created>1733181772411</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733181772411</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,11 +86,15 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Solution for problem 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solution for problem 2" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/red_nosed_reports.py</url>
+          <url>file://$PROJECT_DIR$/src/day_2_red_nosed_reports.py</url>
           <line>9</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
